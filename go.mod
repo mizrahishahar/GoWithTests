@@ -1,0 +1,3 @@
+module GoWithTests
+
+go 1.22.1
